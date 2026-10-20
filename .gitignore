@@ -1,0 +1,8 @@
+bin/
+obj/
+out/
+*.user
+# never commit game files
+MelonLoader/
+Il2CppAssemblies/
+*.unity
