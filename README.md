@@ -1,3 +1,5 @@
+#This mod is free, but if you could star my 2 repositories, I’d appreciate it.❤️
+
 # Sandbox House
 
 A MelonLoader mod for **Sarah's House** (AceStudio) that turns the house into a free sandbox: no story, no quests, no saving — just the house, the characters, their animations and the game's own two-person scenes, replayable on the spot.
