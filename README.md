@@ -5,7 +5,7 @@ A MelonLoader mod for **Sarah's House** (AceStudio) that turns the house into a 
 > Unofficial fan mod. Not affiliated with AceStudio. You need your own copy of the game.
 > Tested on game **v0.11.6** (Windows, IL2CPP) with **MelonLoader 0.7.3**.
 
----
+----
 
 ## Features at a glance
 
